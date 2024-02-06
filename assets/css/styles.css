@@ -1,0 +1,83 @@
+/* FILEPATH: /c:/Users/Carlos/Desktop/Github/boxinlove/assets/css/styles.css */
+
+h1 {
+  text-align: center;
+}
+
+h1 img {
+  width: 200px;
+  height: 200px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.navegacion {
+  text-align: center;
+}
+
+.price-row {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.contenido {
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.descripcion {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.descripcion-info {
+  justify-content: center;
+  padding: 20px;
+  border: 3px solid #ddd;
+  border-radius: 10px;
+  margin: 10px;
+  width: 100%;
+}
+
+.plan {
+  text-align: center;
+  padding: 20px;
+  border: 3px solid #ddd;
+  border-radius: 10px;
+  margin: 10px;
+  width: 400px;
+}
+
+.plan p {
+  font-size: 20px;
+}
+
+.plan img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.plan ul {
+  text-align: left;
+  padding-top: 20px;
+}
+
+.plan li {
+  font-size: medium;
+  list-style: square;
+  font-weight: bold;
+  margin-right: 8px;
+}
